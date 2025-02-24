@@ -1,5 +1,10 @@
 # Changelog
 
+**1.0.0** (24.02.2025)
+- Umfassende Neugestaltung gemäss Dashboard-Konzept BLV
+- Neue Funktionen:
+  - [Tiergesundsheitsstatistik](https://www.dashboard.blv.admin.ch/animals/health/animal_health_statistics)
+
 **0.0.8** (02.11.2024)
 - Diverse Fehlerbehebungen und Optimierungen
 
