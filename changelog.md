@@ -1,5 +1,9 @@
 # Changelog
 
+**1.0.1** (05.03.2025)
+- Oblique 13.0.0
+- Diverse Fehlerbehebungen und Optimierungen
+
 **1.0.0** (24.02.2025)
 - Umfassende Neugestaltung gemäss Dashboard-Konzept BLV
 - Neue Funktionen:
