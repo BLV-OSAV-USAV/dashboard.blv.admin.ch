@@ -1,5 +1,11 @@
 # Changelog
 
+**1.1.0** (31.03.2025)
+- Neue Funktionen:
+  - [Bovinen Virus Diarrhoe (BVD)](https://www.dashboard.blv.admin.ch/animals/epizootics/bvd)
+  - Vollbild-Ansicht der Datenvisualisierungen
+- Diverse Fehlerbehebungen und Optimierungen
+
 **1.0.1** (05.03.2025)
 - Oblique 13.0.0
 - Diverse Fehlerbehebungen und Optimierungen
