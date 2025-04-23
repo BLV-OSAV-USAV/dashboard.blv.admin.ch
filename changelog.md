@@ -1,8 +1,13 @@
 # Changelog
 
+**1.2.0** (23.04.2025)
+- Neue Funktionen:
+  - [Moderhinke](https://blv-dashboard.zazukoians.org/animals/epizootics/foot-rot)
+- Diverse Fehlerbehebungen und Optimierungen
+
 **1.1.0** (31.03.2025)
 - Neue Funktionen:
-  - [Bovinen Virus Diarrhoe (BVD)](https://www.dashboard.blv.admin.ch/animals/epizootics/bvd)
+  - [Bovine Virus Diarrhoe (BVD)](https://www.dashboard.blv.admin.ch/animals/epizootics/bvd)
   - Vollbild-Ansicht der Datenvisualisierungen
 - Diverse Fehlerbehebungen und Optimierungen
 
