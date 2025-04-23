@@ -2,7 +2,7 @@
 
 **1.2.0** (23.04.2025)
 - Neue Funktionen:
-  - [Moderhinke](https://blv-dashboard.zazukoians.org/animals/epizootics/foot-rot)
+  - [Moderhinke](https://www.dashboard.blv.admin.ch/animals/epizootics/foot-rot)
 - Diverse Fehlerbehebungen und Optimierungen
 
 **1.1.0** (31.03.2025)
