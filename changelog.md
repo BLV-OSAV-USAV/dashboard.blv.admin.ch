@@ -1,5 +1,11 @@
 # Changelog
 
+
+**1.3.0** (01.05.2025)
+- Neue Funktionen:
+  - [Lebensmittelkontrolle](https://www.dashboard.blv.admin.ch/nutrition/food-safety/food-control)
+  - [Moderhinke: Aktuelle Situation](https://www.dashboard.blv.admin.ch/animals/epizootics/foot-rot)
+
 **1.2.0** (23.04.2025)
 - Neue Funktionen:
   - [Moderhinke](https://www.dashboard.blv.admin.ch/animals/epizootics/foot-rot)
