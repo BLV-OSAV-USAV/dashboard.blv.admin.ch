@@ -1,5 +1,8 @@
 # Changelog
 
+**1.4.0** (17.09.2025)
+- Neue Funktionen:
+  - [Tierversuche](https://www.dashboard.blv.admin.ch/animals/animal-experimentation/statistics)
 
 **1.3.0** (01.05.2025)
 - Neue Funktionen:
