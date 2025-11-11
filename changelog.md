@@ -1,5 +1,9 @@
 # Changelog
 
+**1.5.0** (11.11.2025)
+- Neue Funktionen:
+  - [Tierarzneimittel](https://www.dashboard.blv.admin.ch/animals/veterinary-medicines/antibiotic_consumption)
+
 **1.4.0** (17.09.2025)
 - Neue Funktionen:
   - [Tierversuche](https://www.dashboard.blv.admin.ch/animals/animal-experimentation/statistics)
