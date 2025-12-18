@@ -1,5 +1,9 @@
 # Changelog
 
+**1.7.0** (18.12.2025)
+- Oblique 14
+- Optimierte Startseite und Navigation
+
 **1.6.0** (13.11.2025)
 - Neue Funktionen:
   - [Ernährung Kinder und Jugendliche](https://www.dashboard.blv.admin.ch/nutrition/nutrition-of-children/survey-overview)
