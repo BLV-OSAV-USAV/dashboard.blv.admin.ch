@@ -1,5 +1,9 @@
 # Changelog
 
+**1.8.0** (03.07.2026)
+- Neue Funktionen:
+  - [Rückstände Pflanzenschutzmittel](https://www.dashboard.blv.admin.ch/nutrition/food-safety/pesticide-residues)
+
 **1.7.0** (18.12.2025)
 - Oblique 14
 - Optimierte Startseite und Navigation
